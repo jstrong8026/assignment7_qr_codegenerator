@@ -1,10 +1,11 @@
 ## My GitHub Repository
 ![GitHub Repo](/qr_codes/QRCode_20261020030649.png "My GitHub QR Code Link")
+<img width="430" height="430" alt="QRCode_20261020030649" src="https://github.com/user-attachments/assets/2b518952-f938-473f-9256-5238a45bad11" />
 
 ## My DockerHub Image
 
 ![Docker QR Image](/qr_codes/QRCode_20261020030150.png "My Docker QR Code Link")
-
+<img width="430" height="430" alt="QRCode_20261020030150" src="https://github.com/user-attachments/assets/d22d227c-8a29-4a73-82f6-be86b414de9f" />
 
 
 
